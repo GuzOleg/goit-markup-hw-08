@@ -533,7 +533,7 @@ img {
       rgba(47, 48, 58, 0.4),
       rgba(47, 48, 58, 0.4)
     ),
-    url(../img/Banner_mob.jpg);
+    url(../img/banner_mob.jpg);
 }
 @media (min-device-pixel-ratio: 2),
   (min-resolution: 192dpi),
@@ -543,7 +543,7 @@ img {
         rgba(47, 48, 58, 0.4),
         rgba(47, 48, 58, 0.4)
       ),
-      url(../img/Banner_mob@2x.jpg);
+      url(../img/banner_mob@2x.jpg);
   }
 }
 @media screen and (min-width: 768px) {
@@ -552,7 +552,7 @@ img {
         rgba(47, 48, 58, 0.4),
         rgba(47, 48, 58, 0.4)
       ),
-      url(../img/Banner_tab.jpg);
+      url(../img/banner_tab.jpg);
   }
 }
 @media screen and (min-width: 768px) and (min-device-pixel-ratio: 2),
@@ -563,7 +563,7 @@ img {
         rgba(47, 48, 58, 0.4),
         rgba(47, 48, 58, 0.4)
       ),
-      url(../img/Banner_tab@2x.jpg);
+      url(../img/banner_tab@2x.jpg);
   }
 }
 @media screen and (min-width: 1200px) {
@@ -574,7 +574,7 @@ img {
         rgba(47, 48, 58, 0.4),
         rgba(47, 48, 58, 0.4)
       ),
-      url(../img/Banner_desktop.jpg);
+      url(../img/banner_desktop.jpg);
   }
 }
 @media screen and (min-width: 1200px) and (min-device-pixel-ratio: 2),
@@ -585,7 +585,7 @@ img {
         rgba(47, 48, 58, 0.4),
         rgba(47, 48, 58, 0.4)
       ),
-      url(../img/Banner_desktop@2x.jpg);
+      url(../img/banner_desktop@2x.jpg);
   }
 }
 .hero__title {
